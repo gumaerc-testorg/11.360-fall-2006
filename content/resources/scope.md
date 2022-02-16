@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information on topics medford, community growth
   and plan components and products.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-360-community-growth-and-land-use-planning-fall-2006/262f138110362db675246eb470112855_scope.pdf
+file: /media/courses/11-360-community-growth-and-land-use-planning-fall-2006/262f138110362db675246eb470112855_scope.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: scope.pdf
 uid: 262f1381-1036-2db6-7524-6eb470112855
