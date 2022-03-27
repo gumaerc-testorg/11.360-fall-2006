@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: f10ec97f-1bae-63af-fd2a-a3715b3811c2
 resourcetype: Document
 title: tips.pdf
 uid: 2948e2e2-77d9-c20e-d8eb-4f36bc6f4e17
