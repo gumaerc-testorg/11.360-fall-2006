@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The syllabus section provides the information about the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,7 +19,7 @@ This subject explores the techniques, processes, and personal and professional s
 
 The fundamentals of the land use planning and growth management system are explored. Discussion and review of both traditional and innovative approaches to land use planning and growth management will occur, with emphasis on participatory processes and performance-based systems. Examples of the tools and techniques utilized at the local, regional, and state level of government will also be presented and evaluated.
 
-A major focus of the course involves student work on a client-based land use planning project in Medford Massachusetts. The project will enable students to draw upon and apply a variety of approaches and interventions explored in the course and [readings]({{< baseurl >}}/pages/readings). (See attached "[Scope of Work]({{< baseurl >}}/pages/projects)" for description of client-based project.)
+A major focus of the course involves student work on a client-based land use planning project in Medford Massachusetts. The project will enable students to draw upon and apply a variety of approaches and interventions explored in the course and {{% resource_link d20f63d1-c492-8305-ba03-5455a7455076 "readings" %}}. (See attached "{{% resource_link f10ec97f-1bae-63af-fd2a-a3715b3811c2 "Scope of Work" %}}" for description of client-based project.)
 
 Class sessions employ lectures, discussions of readings, case materials, role-playing exercises, and student presentations. A reader containing journal articles, papers, and other written works relevant to contemporary planning practice and the evolution of the discipline supplements class session topics and discussion. Where appropriate to specific topics, guest speakers will present to the class and join in class discussion.
 

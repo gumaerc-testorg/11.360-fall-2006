@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about additional reading materials
+  regarding the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -326,7 +328,7 @@ Kennedy, Maureen, and Paul Leonard. _Dealing with Neighborhood Change: A Primer 
 
 Bergsman, Steve. "Community Renewal: Activating Chicago's Washington Park." _Urban Land_ 63, no. 10 (2004): 104-107.
 
-Seidman, Karl F. _Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs_. The Fannie Mae Foundation, September 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](http://community-wealth.org/sites/clone.community-wealth.org/files/downloads/tool-fannie-mae-main-str.pdf))
+Seidman, Karl F. _Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs_. The Fannie Mae Foundation, September 2004. ([PDF - 1.8MB](http://community-wealth.org/sites/clone.community-wealth.org/files/downloads/tool-fannie-mae-main-str.pdf))
 
 NBDM Overview: What Is the Neighborhood Business Development Methodology. [Neighborhood Connections](http://www.artmedialab.com/_portfolio/icic/www/misc/overview.html).
 
@@ -406,7 +408,7 @@ Landscape Planning History and Current Approaches
 {{< tdopen >}}
 
 
-Center for Watershed Protection. "Smart Site Practices for Redevelopment and Infill Projects Redevelopment." Ellicott City, MD: Center for Watershed Protection, October 2001. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](http://www.town-eastonmd.com/PlanningZoning/Easton_Downtown_Plan/Center%20for%20Watershed%20Protection%20Guidelines/MD%20Smart%20Site%20Practices%20for%20Redevelopment%20and%20Infill%20Project.pdf))
+Center for Watershed Protection. "Smart Site Practices for Redevelopment and Infill Projects Redevelopment." Ellicott City, MD: Center for Watershed Protection, October 2001. ([PDF](http://www.town-eastonmd.com/PlanningZoning/Easton_Downtown_Plan/Center%20for%20Watershed%20Protection%20Guidelines/MD%20Smart%20Site%20Practices%20for%20Redevelopment%20and%20Infill%20Project.pdf))
 
 Rishbeth, Clare. "Ethnic Minority Groups and the Design of Public Open Space: An Inclusive Landscape." _Landscape Research_ 26, no. 4 (2001): 351-366.
 
