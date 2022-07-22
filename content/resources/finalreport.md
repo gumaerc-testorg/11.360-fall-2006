@@ -7,6 +7,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/4cb17cd0d
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: finalreport.pdf
 uid: 4cb17cd0-de39-b9a9-ae63-2394daf66a5b
 ---
 This resource contains information on topics mystic river greenway, signage, ecology, interventions, transportation and streetscape, south gateway, northeast gateway and clippership drive.
-

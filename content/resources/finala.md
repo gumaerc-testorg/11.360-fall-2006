@@ -6,6 +6,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/acb26dd30
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: finala.pdf
 uid: acb26dd3-0227-d832-b35a-0df2e7f59531
 ---
 This resource contains information on topics open space, ecology, recreation and transportation.
-

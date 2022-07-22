@@ -6,6 +6,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/3545771b3
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: finalc.pdf
 uid: 3545771b-3177-0693-4542-35555d2c96f1
 ---
 This resource contains information on topics regulatory framework, development scenarios, vibrant retail through main streets and redevelopment.
-

@@ -6,6 +6,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/262f13811
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: scope.pdf
 uid: 262f1381-1036-2db6-7524-6eb470112855
 ---
 This resource contains information on topics medford, community growth and plan components and products.
-

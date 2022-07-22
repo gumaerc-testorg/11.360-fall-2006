@@ -5,6 +5,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/ec9c723e5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec5.pdf
 uid: ec9c723e-557d-929e-bd0a-788875d173b4
 ---
 Lecture presentation.
-

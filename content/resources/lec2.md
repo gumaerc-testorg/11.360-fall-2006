@@ -5,6 +5,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/7a3bf257a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec2.pdf
 uid: 7a3bf257-a2db-bedf-b4ea-a3b0af440dee
 ---
 Presentation by George Proakis, Chief Planner, City of Lowell.
-

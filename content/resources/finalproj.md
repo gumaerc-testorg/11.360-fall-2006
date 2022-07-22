@@ -6,6 +6,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/3b96f84f1
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: finalproj.pdf
 uid: 3b96f84f-14c5-5cfb-e0d7-a00529f3c689
 ---
 This resource contains information on topics final plan, project report, individual final class memos and final grade evaluation issues and project expectations.
-
