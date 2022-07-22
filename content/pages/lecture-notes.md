@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains lectures notes for this course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 68ac24fd-bb1c-0e57-e142-b0bd8bd59c2f
 ---
@@ -42,7 +46,7 @@ LECTURE NOTES
 Zoning Controls - The Basics
 {{< tdclose >}}
 {{< tdopen >}}
-Zoning Basics ([PDF - 7.3 MB]({{< baseurl >}}/resources/lec2))
+Zoning Basics ({{% resource_link 7a3bf257-a2db-bedf-b4ea-a3b0af440dee "PDF - 7.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ Zoning Basics ([PDF - 7.3 MB]({{< baseurl >}}/resources/lec2))
 Incentive - Based Techniques and Methods to Broaden Housing Affordability
 {{< tdclose >}}
 {{< tdopen >}}
-Zoning Innovations ([PDF - 5.2 MB]({{< baseurl >}}/resources/lec5))
+Zoning Innovations ({{% resource_link ec9c723e-557d-929e-bd0a-788875d173b4 "PDF - 5.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

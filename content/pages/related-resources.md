@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains additional resources to enhance knowledge of the
+  course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: cd09a6b4-46cf-e678-d995-d1bc47f5cf72
 ---
@@ -12,7 +16,7 @@ uid: cd09a6b4-46cf-e678-d995-d1bc47f5cf72
 
 [City of Hopkins Design Guidelines](https://www.hopkinsmn.com/197/Downtown-Overlay-District)
 
-Visualizing Density (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.3MB](https://www.lincolninst.edu/sites/default/files/pubfiles/visualizing-density-chp.pdf))
+Visualizing Density ([PDF - 6.3MB](https://www.lincolninst.edu/sites/default/files/pubfiles/visualizing-density-chp.pdf))
 
 [City of Dana Point Design Guidelines](http://www.danapoint.org/)
 
