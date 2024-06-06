@@ -2,6 +2,7 @@
 content_type: resource
 description: Presentation by George Proakis, Chief Planner, City of Lowell.
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/7a3bf257a2dbbedfb4eaa3b0af440dee_lec2.pdf
+file_size: 7675624
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
