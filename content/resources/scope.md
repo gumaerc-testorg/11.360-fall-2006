@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on topics medford, community growth
   and plan components and products.
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/262f138110362db675246eb470112855_scope.pdf
+file_size: 23669
 file_type: application/pdf
 learning_resource_types:
 - Projects
