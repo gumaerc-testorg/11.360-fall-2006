@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics final plan, project report,
   individual final class memos and final grade evaluation issues and project expectations.
-file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/3b96f84f14c55cfbe0d7a00529f3c689_finalproj.pdf
+file: /ol-ocw-studio-app/courses/11-360-community-growth-and-land-use-planning-fall-2006/3b96f84f14c55cfbe0d7a00529f3c689_finalproj.pdf
 file_size: 14780
 file_type: application/pdf
 learning_resource_types:

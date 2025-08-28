@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics regulatory framework, development
   scenarios, vibrant retail through main streets and redevelopment.
-file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/3545771b31770693454235555d2c96f1_finalc.pdf
+file: /ol-ocw-studio-app/courses/11-360-community-growth-and-land-use-planning-fall-2006/3545771b31770693454235555d2c96f1_finalc.pdf
 file_size: 2898478
 file_type: application/pdf
 learning_resource_types:
